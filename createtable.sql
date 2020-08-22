@@ -1,0 +1,15 @@
+CREATE TABLE main.otsample (
+s1 text,
+w1 text,
+dbday text,
+Season text,
+Day text,
+Psalm_MP text,
+Psalm_EP text,
+OT text,
+OTFormatted text,
+Epistle text,
+Epistle_Formatted text,
+Gospel text,
+Gospel_Formatted text,
+OTPassage blob);

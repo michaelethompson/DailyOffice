@@ -1,0 +1,28 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Bible Passage Test</title>
+  <meta name="description" content="Daily Office Generator">
+  <meta name="author" content="MET">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body>
+
+<h2 class="passageref">mark 1:2-5</h2>
+<div class="bibletext">
+<p>
+<p><sup class="ww vnumVis">2</sup>As it is written in the prophet Isaiah, <blockquote>“See, I am sending my messenger ahead of you,<br/><spacer size="10"/>who will prepare your way;<br/>
+<sup class="ww vnumVis">3</sup>the voice of one crying out in the wilderness:<br/><spacer size="10"/>‘Prepare the way of the Lord,<br/><spacer size="10"/>make his paths straight,’”</blockquote>
+<sup class="ww vnumVis">4</sup>John the baptizer appeared in the wilderness, proclaiming a baptism of repentance for the forgiveness of sins.
+<sup class="ww vnumVis">5</sup>And people from the whole Judean countryside and all the people of Jerusalem were going out to him, and were baptized by him in the river Jordan, confessing their sins.
+</p>
+</p></div>
+
+</body>
+</html>
